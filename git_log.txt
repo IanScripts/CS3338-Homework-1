@@ -1,0 +1,9 @@
+* b7a9f44 (HEAD -> main) Create repo-location.txt
+* 212a7d3 (origin/main, origin/HEAD) Update index.html
+* f37cdce (upstream/main, upstream/HEAD) Replicate assignment-1 index
+*   2221a86 Merge pull request #1 from JValenzuela1/feature-about-me
+|\  
+| * bad1d21  Please enter the commit message for your changes. Lines starting
+| * 740ccd1 Adding an index template for students
+|/  
+* 7790057 first commit
